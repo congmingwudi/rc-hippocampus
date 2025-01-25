@@ -2,5 +2,5 @@
 Ryan's portfolio of work
 
 Other places to find me:
-linkedin.com/in/tadryancox
-photomistic.com
+- [Linkedin](linkedin.com/in/tadryancox)
+- [Photography](photomistic.com)
