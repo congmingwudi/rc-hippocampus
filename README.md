@@ -4,4 +4,4 @@ Ryan's portfolio of work
 
 Other places to find me:
 - [linkedin](https://linkedin.com/in/tadryancox)
-- [photography](https://photomistic.com)
+- [photography](https://archive.photomistic.com)
